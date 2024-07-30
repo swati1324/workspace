@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>My first PHP page! 
-it's mine....
+<h1>My first PHP page!
+  it's working....
 </h1>
 
 <?php
